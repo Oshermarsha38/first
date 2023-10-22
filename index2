@@ -1,0 +1,17 @@
+<html>
+<title>Hello ECOM!</title>
+</head>
+
+<body>
+<body style="background-color:rgb(225, 225, 113)">
+
+    <br></br>
+    <br />
+
+    <h1 style="color:rgb(20, 20, 164)">hello ECOM</h1>
+    <hr />
+    <p> <b>new</b>&nbsp; paragraph  </br></p>
+    <p> <del> <b>new</b> paragraph </del> </p>
+     <p> <a href="https://ynet.co.il" target="_blank"> for ynet click here</a> </p>
+</body>
+</html>
